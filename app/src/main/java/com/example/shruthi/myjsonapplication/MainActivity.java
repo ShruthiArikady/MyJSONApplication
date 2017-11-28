@@ -19,8 +19,7 @@ private String cString="";
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-       content ="{\n"+
+        content ="{\n"+
                 "     \"colors\": [\n"+
                 "       {\n"+
                 "         \"color\": \"black\",\n"+
